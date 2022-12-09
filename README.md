@@ -27,6 +27,8 @@
 
   - <a href="https://github.com/leesaewa/nextjs-practice/blob/main/study/221206.md#404-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%BB%A4%EC%8A%A4%ED%85%80">404 페이지 커스텀</a>
   - <a href="https://github.com/leesaewa/nextjs-practice/blob/main/study/221121.md#custom-app">Base layout(custom app)</a>
+  - <a href="https://github.com/leesaewa/nextjs-practice/blob/main/study/221202.md#layouts">Layouts</a>
+  - <a href="https://github.com/leesaewa/nextjs-practice/blob/main/study/221202.md#head-nexthead">Head (next/head)</a>
 
 - <a href="https://github.com/leesaewa/nextjs-practice/blob/main/study/221203.md#nextconfigjs">next.config.js</a>
 - routes
