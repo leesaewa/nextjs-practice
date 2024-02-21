@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
       <Seo title="About" />
-      <h1>About</h1>
+      <h2>movie app</h2>
     </div>
   );
 }

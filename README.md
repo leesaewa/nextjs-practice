@@ -1,5 +1,17 @@
 # NextJS practice
 
+# 2024 version 14 Update
+
+- 두 가지 `router`로 분기
+  - `app router`와 `pages router`
+  - `app router`와 `pages router`를 같이 사용해도 됨
+  - 버전 업그레이드를 해도 `router`와 `optimization`은 동일하게 작동.
+
+## pages와 app의 차이점
+
+- `app router`에서는 `data fetching`, `routing` 방법이 바뀜
+  - `getStaticProps`, `getServerSideProps`, `getStaticPaths` 사라짐
+
 # log
 
 - <a href="https://github.com/leesaewa/nextjs-practice/blob/main/study/221121.md#library%EC%99%80-framework%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90">라이브러리/프레임워크 차이점</a>
@@ -34,5 +46,3 @@
 - routes
   - <a href="https://github.com/leesaewa/nextjs-practice/blob/main/study/221203.md#redirects-url%EB%B3%80%EA%B2%BD%EB%90%A8">Redirects (URL변경됨)</a>
   - <a href="https://github.com/leesaewa/nextjs-practice/blob/main/study/221203.md#rewrites-url%EB%B3%80%EA%B2%BD%EB%90%98%EC%A7%80-%EC%95%8A%EC%9D%8C">Rewrites (URL변경되지 않음)</a>
-
-
